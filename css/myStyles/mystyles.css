@@ -20,4 +20,9 @@
     margin-left: 10px;
     margin-bottom: 8px; }
 
+#popular {
+  padding-top: 60px; }
+  #popular .intro {
+    font-size: 17px; }
+
 /*# sourceMappingURL=mystyles.css.map */
