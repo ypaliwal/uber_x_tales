@@ -1,0 +1,23 @@
+.hero {
+  background: url("../../img/myImgs/hero-back2.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+  .hero .logo img {
+    max-width: 180px; }
+  .hero p.intro {
+    margin-bottom: 20px; }
+  .hero .header-nav img {
+    margin-left: 10px;
+    max-width: 20px; }
+  .hero .header-nav li {
+    margin-right: 20px; }
+  .hero .hero-content h1 {
+    font-size: 50px; }
+  .hero .hero-content img {
+    max-width: 350px;
+    margin-left: 10px;
+    margin-bottom: 8px; }
+
+/*# sourceMappingURL=mystyles.css.map */
