@@ -36,6 +36,9 @@
 
 #recent {
   padding-top: 40px; }
+  #recent p {
+    padding-bottom: 0px;
+    margin-bottom: 0px; }
   #recent .tales-item {
     background-color: #F3F4F8;
     margin: 10px;
