@@ -39,10 +39,57 @@
 
 #popular {
 	
-		padding-top: 60px;
+	padding-top: 60px;
 
-		.intro {
-			font-size: 17px;
-		}
+	.intro {
+		font-size: 17px;
+	}
+
+	.tales-item {
+		background-color: white;
+		margin: 10px;
+		margin-bottom: 20px;
+		padding: 0 20px 20px 20px;
+	}
+
+	.tales-header {
+		padding-top: 10px;
+	}
+			
+	.tales-header-right {
+		text-align: right;
+	}
 	
 }
+
+#recent {
+
+	padding-top: 40px;
+
+	.tales-item {
+		background-color: #F3F4F8;
+		margin: 10px;
+		margin-bottom: 20px;
+		padding: 0 20px 20px 20px;
+	}
+
+	.tales-header {
+		padding-top: 10px;
+	}
+			
+	.tales-header-right {
+		text-align: right;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+

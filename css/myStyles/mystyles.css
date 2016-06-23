@@ -24,5 +24,26 @@
   padding-top: 60px; }
   #popular .intro {
     font-size: 17px; }
+  #popular .tales-item {
+    background-color: white;
+    margin: 10px;
+    margin-bottom: 20px;
+    padding: 0 20px 20px 20px; }
+  #popular .tales-header {
+    padding-top: 10px; }
+  #popular .tales-header-right {
+    text-align: right; }
+
+#recent {
+  padding-top: 40px; }
+  #recent .tales-item {
+    background-color: #F3F4F8;
+    margin: 10px;
+    margin-bottom: 20px;
+    padding: 0 20px 20px 20px; }
+  #recent .tales-header {
+    padding-top: 10px; }
+  #recent .tales-header-right {
+    text-align: right; }
 
 /*# sourceMappingURL=mystyles.css.map */
